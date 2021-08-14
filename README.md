@@ -1,4 +1,4 @@
-# youtubejs 1.0-beta
+# youtubejs 1.0
 youtubejs is Pure Javascript that allows you to embed youtube videos.
 # Using Javascript
 Run the command:</br>
